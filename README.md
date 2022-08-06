@@ -4,7 +4,7 @@
 
 BackEnd Software Developer
 
-As generalist, I look for to solve problems and produce positives results.
+As generalist, I look for to solve problems and produce positive results.
 
 
 <code><img height="20" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>

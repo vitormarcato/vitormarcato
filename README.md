@@ -4,7 +4,7 @@
 
 BackEnd Software Developer
 
-As generalist, I look for to solve problems and produce positive results.
+As generalist, I try to solve problems and produce positive results.
 
 📧 vitor.marcatof@gmail.com
 

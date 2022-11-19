@@ -1,6 +1,6 @@
 ### Oi 👋  Eu sou o Vitor Marcato 
 
-Desenvolvedor de software BackEnd
+Desenvolvedor de software Back End
 
 Com pensamento generalista, busco resolver problemas e gerar resultados relevantes como desenvolvedor de software back-end Java. 
 
@@ -14,6 +14,8 @@ Nesse período, desenvolvi habilidades de comunicação assertiva, organização
 
 Para saber mais sobre meus projetos acesse os repositórios abaixo.
 
+A seguir você também encontrará os links para meu linkedin e e-mail, fique à vontade para entrar em contato comigo!
+
 
 ---
 
@@ -23,7 +25,7 @@ Para saber mais sobre meus projetos acesse os repositórios abaixo.
 ### Hello 👋   I'm Vitor Marcato 
 
 
-BackEnd Software Developer
+Back-End Software Developer
 
 Professional with general thinking, I look for to solve problems and produce relevant results as Java back-end software developer.
 
@@ -35,11 +37,15 @@ In addition, I have around 10 years of background, in the most working in "big f
 
 During this period, I developed skills such as communication, organization, negotiation, flexibility, problem solving and also working in a team remotely.
 
-Check out my personal projects in the repositories below.
+Check out my personal projects in the repositories below and feel free to get in touch!  
 
+# 
+
+
+<div align="center">
 <a href="https://www.linkedin.com/in/vitormarcato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:vitor.marcatof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+</div>
 
 
 ### Repositories statistics
